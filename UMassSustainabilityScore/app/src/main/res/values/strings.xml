@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">UMass Sustainability Score</string>
+    <string name="Food">Foods</string>
+    <string name="Locations">Locations</string>
+
+    <string-array name="foods">
+    <item>Cake</item>
+    <item>Munchkin</item>
+    <item>Muffin</item>
+    <item>Chocolate</item>
+    <item>Cookie</item>
+    </string-array>
+
+    <string-array name = "locations">
+        <item>Worcester Dining Commons</item>
+        <item>Hampshire Dining Commons</item>
+        <item>Quarantine Menu</item>
+        <item>Bluewall - Grill</item>
+        <item>Bluewall - Deli Delish</item>
+        <item>Bluewall - Tavola</item>
+        <item>Bluewall - Wasabi</item>
+        <item>ISB Cafe</item>
+        <item>Bluewall - Star Ginger</item>
+        <item>Morrill Science Cafe</item>
+        <item>Hampshire Market</item>
+        <item>Marcus Cafe</item>
+        <item>OIT Cafe</item>
+        <item>Post &amp; Bean Cafe</item>
+        <item>ISOM CAFE</item>
+        <item>Franklin Dining Commons</item>
+        <item>Berkshire Dining Commons</item>
+        <item>Worcester Cafe</item>
+        <item>FURCOLO</item>
+        <item>Courtside Cafe</item>
+        <item>Harvest</item>
+        <item>Bluewall - Tamales</item>
+        <item>People's Organic Cafe</item>
+        <item>Procrastination Station</item>
+        <item>Roots Cafe</item>
+        <item>Peets Coffee</item>
+        <item>Bluewall - Greenfields</item>
+        <item>Snack Overflow Cafe</item>
+        <item>Mt. Ida</item>
+    </string-array>
+
+</resources>
