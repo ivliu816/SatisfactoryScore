@@ -4,11 +4,11 @@
     <string name="Locations">Locations</string>
 
     <string-array name="foods">
-    <item>Cake</item>
-    <item>Munchkin</item>
-    <item>Muffin</item>
-    <item>Chocolate</item>
-    <item>Cookie</item>
+    <item>Spinach</item>
+    <item>Beef</item>
+    <item>Mascaparon</item>
+    <item>Scrambled Eggs</item>
+    <item>Cherry Tomatoes</item>
     </string-array>
 
     <string-array name = "locations">
